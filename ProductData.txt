@@ -1,0 +1,9 @@
+1000, 15 inch laptop, 785.50, electronics
+1001, calculator, 34.50, electronics
+1002, high res camera, 125.95, electronics
+1003, tennis racket, 157.95, sports
+1004, squash racket, 45.99, sports
+1005, golf clubs, 295.99, sports
+1006, AI Fundamentals, 75.95, books
+1007, Cloud Computing, 49.99, books
+1008, Deep Learning, 68.50, books
